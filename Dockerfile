@@ -1,5 +1,5 @@
 # 环境
-FROM  williamyeh/java8:latest
+FROM  openjdk:8-jdk-alpine
 # 作者信息
 MAINTAINER david xpDocker
 # 拷贝jar
